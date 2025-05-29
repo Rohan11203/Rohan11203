@@ -2,6 +2,41 @@ import type { Project } from "@/app/types/project";
 
 export const projects: Project[] = [
   {
+    title: "SmartClip",
+    type: "Clip Video and Get Explanation of Video",
+    description: "Platform to get video explanation",
+    image: "/smartClip.png",
+    bgColor: "#111111",
+    technologies: [
+      "React",
+      "Node.js",
+      "Express",
+      "Framer Motion",
+      "Tailwind CSS",
+      "MongoDB",
+      "Gemini API",
+    ],
+    featured: true,
+    link: "https://smartclip-ai1.onrender.com/",
+  },
+  {
+    title: "SamyCraft",
+    type: "Personal Portfolio Showcase",
+    description:
+      "A minimalist and nostalgic platform crafted exclusively for a friend to showcase her creative work and projects.",
+    image: "/samyCraft.png",
+    bgColor: "#1c1c1c",
+    technologies: [
+      "React",
+      "GSAP",
+      "Framer Motion",
+      "Tailwind CSS",
+    ],
+    featured: true,
+    link: "https://samycraft.onrender.com/",
+  },
+
+  {
     title: "CodeArena",
     type: "Coding Platform",
     description: "A dynamic coding platform for developers.",
@@ -28,7 +63,7 @@ export const projects: Project[] = [
       "ReactJs",
       "Tailwindcss",
       "WebSockets",
-      "NodeJs", 
+      "NodeJs",
       "ExpressJs",
     ],
     featured: false,
@@ -57,7 +92,14 @@ export const projects: Project[] = [
     type: "Admin Panel",
     image: "/brainbox.png",
     bgColor: "#0F4C75",
-    technologies: ["React", "Redux", "NodeJs", "ExpressJs", "Material UI", "MongoDB"],
+    technologies: [
+      "React",
+      "Redux",
+      "NodeJs",
+      "ExpressJs",
+      "Material UI",
+      "MongoDB",
+    ],
     featured: false,
     link: "",
   },
