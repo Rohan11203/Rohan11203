@@ -24,7 +24,7 @@ export const projects: Project[] = [
     type: "Personal Portfolio Showcase",
     description:
       "A minimalist and nostalgic platform crafted exclusively for a friend to showcase her creative work and projects.",
-    image: "/samyCraft.png",
+    image: "/SamyCraft.png",
     bgColor: "#1c1c1c",
     technologies: [
       "React",
