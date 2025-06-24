@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Just completed my graduation in B.Sc. IT<br><br>🧠 Currently learning more about: Devops,Solana,Smart Contracts<br><br>💼 Actively looking for opportunities to work in an office or industry setting
+🧠 Currently learning more about: Devops,Solana,Smart Contracts<br><br>💼 Actively looking for opportunities to work in an office or industry setting
 
 
 ## 🌐 Socials:
